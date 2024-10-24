@@ -1,4 +1,4 @@
 
-## About Sepehr Hariri
+## About Me
 
-This is my personal webpage, in which I have provided my social account links, my downloadable contents as well as my personal statement. This is a simple one-page website that is created.
+Welcome to my GitHub page! I am passionate about software development, with a focus on full-stack, and advanced front-end frameworks for building admin panels, and etc. I enjoy creating innovative projects and sharing them with the developer community. Explore my repositories to see my work and contributions!
